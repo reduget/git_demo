@@ -1,0 +1,16 @@
+mkdir === used to create a folder
+mkdir git_demo
+
+touch => used to create a file
+example = touch command.txt
+
+git init  ===> used to initialize git locally (initialied empty git repository)
+
+git add . ( add everything)  ==> save to stage
+git add *.txt 
+git add *.html
+git add command.txt
+
+git status  ==> check the status or activity
+
+git commit -m "any message" ==> commit the change to save
