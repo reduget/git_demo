@@ -14,3 +14,6 @@ git add command.txt
 git status  ==> check the status or activity
 
 git commit -m "any message" ==> commit the change to save
+
+git remote add origin https://github.com/reduget/git_demo.git
+
