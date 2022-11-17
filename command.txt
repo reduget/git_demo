@@ -17,3 +17,4 @@ git commit -m "any message" ==> commit the change to save
 
 git remote add origin https://github.com/reduget/git_demo.git
 
+git push orgin master
